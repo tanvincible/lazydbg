@@ -2,5 +2,12 @@
 name = "lazydbg"
 version = "0.1.0"
 edition = "2024"
+authors = ["Tanvi Pooranmal Meena <tanvipm19@gmail.com>"]
+license = "Apache-2.0"
+repository = "https://github.com/tanvincible/lazydbg"
+description = "A lightweight debugging macro that is removed in release mode"
+readme = "README.md"
+keywords = ["debug", "macro", "logging", "dbg"]
+categories = ["development-tools", "debugging"]
 
 [dependencies]
